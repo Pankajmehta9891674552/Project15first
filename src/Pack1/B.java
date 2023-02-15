@@ -7,6 +7,7 @@ public class B
 	{
 		
 		System.out.println("B CALLING FILE");
+		System.out.println("B CALLING FILE");
 	}
 	
 	

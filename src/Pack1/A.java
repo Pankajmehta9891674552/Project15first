@@ -7,6 +7,8 @@ public class A
 	{
 		
 		System.out.println("A CALLING FILE");
+		System.out.println("A CALLING FILE");
+		
 	}
 	
 	
